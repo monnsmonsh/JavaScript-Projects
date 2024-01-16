@@ -8,8 +8,9 @@ A brief description of what this project does and who it's for
 Javascript, HTML, CSS...
 
 ## 01_Timer Application
-
 ![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/01_Timer.jfif)
+Create a precise time-tracking tool.
+
 ```javascript
 //funccion star
 function startTimer(){
@@ -31,3 +32,4 @@ Relog!
 
 ## 03_Diccionary english Application
 ![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/03_Diccionary.jfif)
+Develop a dictionary for quick word definitions.
