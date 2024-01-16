@@ -11,14 +11,23 @@ Javascript, HTML, CSS...
 #### Screenshots
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
+//funccion star
+function startTimer(){
+    interval =  setInterval(updateTimer,10);
+    // btn
+    startButton.disabled = true;
 }
 ```
-Contributions are always welcome!
-| Color             | Hex                                                                |
+Relog!
+
+| Parameter | Type     | js                |
+| :-------- | :------- | :------------------------- |
+| `minutes` | `id` | ```javascript let minutes = 0; ``` |
+
+
+
+
+| HTML             | JS                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 
@@ -28,7 +37,3 @@ Please adhere to this project's `code of conduct`.
 ```http
   GET /api/items
 ```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
