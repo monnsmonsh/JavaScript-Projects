@@ -9,7 +9,7 @@ Javascript, HTML, CSS...
 
 ## 01_Timer Application
 #### Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/01_Timer.jfif)
 ```javascript
 //funccion star
 function startTimer(){
