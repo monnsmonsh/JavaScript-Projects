@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 Javascript, HTML, CSS...
 
 ## 01_Timer Application
-#### Screenshots
+
 ![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/01_Timer.jfif)
 ```javascript
 //funccion star
@@ -26,6 +26,4 @@ Relog!
 
 
 ## 02_ICM Calculator Application
-
-#### Screenshots
 ![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/02_ICM.jfif)
