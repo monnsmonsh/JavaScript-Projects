@@ -26,12 +26,9 @@ resetButton.addEventListener('click',resetTimer);
 
 //funccion star
 function startTimer(){
-
     interval =  setInterval(updateTimer,10);
-    
-    //desavilitamos btn
+    // btn
     startButton.disabled = true;
-
 }
 
 function stopTimer(){
