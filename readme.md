@@ -22,18 +22,7 @@ Relog!
 
 | Parameter | Type     | js                |
 | :-------- | :------- | :------------------------- |
-| `minutes` | `id` | ```javascript let minutes = 0; ``` |
+| `minutes` | `id` | ` let minutes = 0; ` |
 
 
-
-
-| HTML             | JS                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-```http
-  GET /api/items
-```
+### 02_Vowel Counter Application
