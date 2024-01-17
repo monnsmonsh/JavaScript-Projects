@@ -33,3 +33,5 @@ Relog!
 ## 03_Diccionary english Application
 ![App Screenshot](https://github.com/monnsmonsh/JavaScript-Projects/blob/main/src/03_Diccionary.jfif)
 Develop a dictionary for quick word definitions.
+
+## 04_Loan Calculator Application
